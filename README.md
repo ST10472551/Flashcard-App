@@ -2,7 +2,9 @@ Flashcard App
 
 Desrcipton:
 The flashcard quiz app allows its users to use the app as a studytool
+This app shows true or false questions based on historical occurances 
 the app consists of true or false buttons that when clicked cause the app to show if the answer is right or wrong
+After answering the ten questions the final screen will display your score out of 10
 
 Link to YouTube Video
 https://youtube.com/shorts/9xjpi1kIK-s
@@ -11,7 +13,6 @@ Link to GitHub Respitory
 https://github.com/ST10472551/Flashcard-App
 
 Screenshot for the application
-Select and right click these links to access the screenshots for the application
 ![Screenshot 2025-05-26 135136](https://github.com/user-attachments/assets/a3275a32-8bcb-464c-adee-9abd07d5b38e)
 ![Screenshot 2025-05-26 135153](https://github.com/user-attachments/assets/8bceddee-3722-4ac5-8d72-dcefb065381c)
 ![Screenshot 2025-05-26 135208](https://github.com/user-attachments/assets/80845585-0ea0-4f3a-b55a-6d36003ea08b)
